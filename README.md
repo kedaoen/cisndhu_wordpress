@@ -1,4 +1,4 @@
 # WordPress
 
-Repository for College of indigenous in NDHU
+For National Dong Hwa University , College of Indigenous Studies .
 
